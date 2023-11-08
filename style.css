@@ -1,0 +1,175 @@
+body
+{
+    background-color:cadetblue;
+}
+#mobilenet_topic{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  
+}
+
+
+.test_image_and_result
+{
+    background-color:darkslategray;
+    height: fit-content;
+    margin-right: 180px !important;
+    width: 95%;
+    margin-left: 30px;
+    padding: 26px;
+    width: 95%;
+    border-radius: 20px;
+    padding-bottom: 100px;
+    padding-left: 35px;
+    padding-right: 35px;
+    box-shadow: 5px 5px 5px 5px rgb(100, 130, 125);
+}
+
+span
+{
+    font-weight: bold;
+    color: rgb(2, 45, 43);
+    font-style: italic;
+    
+}
+
+#image
+{
+    height: 190px;
+    width: 150px;
+    justify-self: left;
+    float: left;
+
+}
+
+li
+{
+    font-size: 20px;
+}
+
+#test
+{
+    color: ivory;
+    float: left;
+}
+
+#google
+{
+    background-color:bisque;
+    width: fit-content;
+    height: fit-content;
+    padding-top: 5px;
+    border-radius: 20px;
+    padding-bottom: 5px;
+}
+
+#heading
+{
+    font-size: 35px;
+    color: rgb(234, 230, 171);
+    font-weight: bold;
+    font-stretch: narrower;
+    text-decoration: underline;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+#google_lens_image
+{
+    height: 90px;
+}
+
+#google_lens_topic
+{
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+}
+
+#result
+{
+    align-content: center;
+        margin-top: 20px;
+        color: white;
+        font-weight: bold;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#vs
+{
+    color:floralwhite;
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: underline;
+    font-family: Times New Roman Bold Italic;
+}
+
+#mobilenet_topic
+{
+    font-size: 15px;
+    font-weight: bold;
+}
+
+#mobile
+{
+    background-color: white;
+    width: fit-content;
+    margin-left: 40px;
+    height: fit-content ;
+    padding-top: 5px;
+    border-radius: 20px;
+    text-align: center;
+    padding-bottom: 5px;
+}
+
+#mobilenet
+{
+    color: rgb(0, 17, 255);
+}
+
+
+
+#google_lens
+{
+    color: rgb(255, 5, 243);
+}
+
+
+#final_result
+{
+    color: white;
+    font-family: cursive;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+
+
+.copy_right_footer
+{
+  position: fixed;
+  color: white;
+  bottom: 0;
+  width: 100%;
+  background-color: grey;
+  line-height: 3;
+  text-align: center;
+}
+
+#google_lens
+{
+    color: purple;
+    font-weight: bold;
+}
+
+#final_statement
+{
+    background-color: pink;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 5px;
+    font-size: 20px;
+    color:coral;
+    border-radius: 30px;
+    border-color: black;
+    border-style: dashed;
+    box-shadow:5px 5px 15px cornsilk;
+}
